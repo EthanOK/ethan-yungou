@@ -1,4 +1,4 @@
-# MY-YUNGOU
+# ethan-yungou
 
 Front-end, back-end, database.
 
